@@ -106,9 +106,3 @@ All registration data is stored locally in a SQLite file named:
 
 `eventreg.db`
 
-
-This database is automatically created when you run the migration command:
-
-```bash
-dotnet ef database update
-```
